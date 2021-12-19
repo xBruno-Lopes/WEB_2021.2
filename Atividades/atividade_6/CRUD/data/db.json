@@ -1,0 +1,16 @@
+{
+  "alunos": [
+    {
+      "nome": "João de Tal da Silva",
+      "curso": "Sistemas de Informação",
+      "IRA": "9.5",
+      "id": 2
+    },
+    {
+      "nome": "teste 1",
+      "curso": "teste 2",
+      "IRA": "7",
+      "id": 3
+    }
+  ]
+}
